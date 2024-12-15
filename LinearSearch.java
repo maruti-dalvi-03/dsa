@@ -4,10 +4,7 @@
  */
 package md.dsa_practicals;
 
-/**
- *
- * @author maruti
- */
+
 public class LinearSearch {
     // Function to perform Linear Search
     public static int linearSearch(int[] arr, int target) {

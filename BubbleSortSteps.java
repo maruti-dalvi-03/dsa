@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class BubbleSortSteps {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        // Input the size of the array
+        // Input the size of the arrayy
         System.out.print("Enter the number of elements: ");
         int n = scanner.nextInt();
         // Input array elements

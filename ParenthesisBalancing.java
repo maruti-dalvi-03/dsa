@@ -4,10 +4,6 @@
  */
 package md.dsa_practicals;
 
-/**
- *
- * @author maruti
- */
 import java.util.Stack;
 public class ParenthesisBalancing {
     // Function to check if parentheses are balanced

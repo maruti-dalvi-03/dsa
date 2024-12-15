@@ -2,7 +2,7 @@ package md.dsa_practicals;
 
 import java.util.Scanner;
 
-// Stack class using an array
+// Stack class using an arrayy
 class Stack {
     private int maxSize;
     private int top;

@@ -4,10 +4,7 @@
  */
 package md.dsa_practicals;
 
-/**
- *
- * @author maruti
- */
+
 import java.util.Scanner;
 class CircularLinkedList {
     static class Node {

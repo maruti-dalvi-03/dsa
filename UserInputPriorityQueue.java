@@ -4,10 +4,7 @@
  */
 package md.dsa_practicals;
 
-/**
- *
- * @author maruti
- */
+
 import java.util.PriorityQueue;
 import java.util.Scanner;
 class Element implements Comparable<Element> {

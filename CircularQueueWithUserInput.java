@@ -5,10 +5,7 @@ package md.dsa_practicals;
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 
-/**
- *
- * @author maruti
- */
+
 import java.util.Scanner;
 public class CircularQueueWithUserInput {
     private int[] queue; // Array to store the queue elements

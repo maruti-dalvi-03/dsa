@@ -4,10 +4,7 @@
  */
 package md.dsa_practicals;
 
-/**
- *
- * @author maruti
- */
+
 //import java.util.Arrays;
 public class BinarySearch {
     // Function to perform Binary Search

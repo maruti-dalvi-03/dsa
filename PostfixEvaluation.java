@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Stack;
 
 public class PostfixEvaluation {
-    // Method to evaluate a postfix expression
+    // Method to evaluate a postfix expression h
     public static int evaluatePostfix(String expression) {
         Stack<Integer> stack = new Stack<>();
 

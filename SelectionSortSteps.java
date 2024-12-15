@@ -9,7 +9,7 @@ public class SelectionSortSteps {
         System.out.print("Enter the number of elements: ");
         int n = scanner.nextInt();
 
-        // Input array elements
+        // Input array elementss
         int[] arr = new int[n];
         System.out.println("Enter " + n + " elements:");
         for (int i = 0; i < n; i++) {

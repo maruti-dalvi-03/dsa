@@ -4,10 +4,7 @@
  */
 package md.dsa_practicals;
 
-/**
- *
- * @author maruti
- */
+
 import java.util.Arrays;
 public class RadixSort {
     // Main function to implement Radix Sort
